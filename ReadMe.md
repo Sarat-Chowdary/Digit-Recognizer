@@ -1,4 +1,4 @@
-Digit Recognizer App
+# Digit Recognizer App
 
 A Deep learning model which classifies digits drawn on a mobile application using Convolutional Neural Networks thorugh Keras, Tensorflow
 2 ways you can use this App:
